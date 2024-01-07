@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ButtonsDisplayer4
+comment0.text=\n\ Displays\ Frame\ to\ redirect\ user\ to\ citation\ window.\n\n\ @author\ L.\ Maboudian\n\ @version\ 1\n
+comment1.params=
+comment1.target=void\ citing()
+comment1.text=\n\ Creates\ new\ Frame\ &\ displays\ button\ to\ redirect\ user\ to\ citation\ window.\n
+numComments=2

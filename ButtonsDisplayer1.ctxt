@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ButtonsDisplayer1
+comment0.text=\n\ Starting\ window\:\ Asks\ the\ user\ if\ they'd\ like\ to\ Start\ (making\ citations/word\ clouds)\ or\ Quit.\n\n\ @author\ L.\ Maboudian\n\ @version\ 2\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Asks\ the\ user\ if\ they'd\ like\ to\ Start\ (making\ citations/word\ clouds)\ or\ Quit.\n\ Directs\ user\ to\ next\ frame\ or\ quits,\ accordingly.\n
+numComments=2

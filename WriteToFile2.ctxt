@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WriteToFile2
+comment0.text=\n\ Creates\ .txt\ file\ with\ given\ file\ name\ (excluding\ extension).\ Writes\ citation\ to\ file.\n\ \n\ @author\ L.\ Maboudian\n\ @version\ 1\n
+comment1.params=
+comment1.target=WriteToFile2()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WriteToFile2\n
+comment2.params=
+comment2.target=void\ prepGUI()
+comment2.text=\n\ Creates\ frame\ to\ prompt\ user\ for\ file\ name.\n
+comment3.params=wEvent
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=userCitation
+comment4.target=void\ writingToFile(java.lang.String)
+comment4.text=\n\ Writes\ citation\ to\ file.\n\ \n\ @param\ userCitation\ citation\ text\n
+comment5.params=aEvent
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

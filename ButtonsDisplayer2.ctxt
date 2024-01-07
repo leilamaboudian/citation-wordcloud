@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ButtonsDisplayer2
+comment0.text=\n\ Displays\ buttons\ with\ options\:\ word\ cloud\ or\ citation.\ \n\n\ @author\ L.\ Maboudian\n\ @version\ 1\n
+comment1.params=
+comment1.target=void\ presNextOptions1()
+comment1.text=\n\ Presents\ options\ to\ continue\ (word\ cloud\ /\ citation).\ Directs\ user\ to\ next\ frame\ accordingly.\n
+numComments=2

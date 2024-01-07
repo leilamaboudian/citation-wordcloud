@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SaveCitFrstStp
+comment0.text=\n\ Asks\ user\ if\ they\ would\ like\ to\ save\ citation\n\n\ @author\ L.\ Maboudian\n\ @version\ 1\n
+comment1.params=frame\ citation
+comment1.target=void\ presNextOptions2(javax.swing.JFrame,\ java.lang.String)
+comment1.text=\n\ Presents\ options\ to\ continue\ (for\ saving\ citation\ in\ text\ file).\n\ \n\ @param\ \ frame\ \ JFrame\ to\ add\ to\n\ @param\ \ citation\ \ citation\ previously\ made\n
+comment2.params=aEvent
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=aEvent
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

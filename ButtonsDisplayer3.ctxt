@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ButtonsDisplayer3
+comment0.text=\n\ Prompt\ user\ for\ text\ file\ to\ create\ word\ cloud.\ Create\ cloud\ from\ file.\n\n\ @author\ L.\ Maboudian\n\ @version\ 1\n
+comment1.params=
+comment1.target=void\ presNext1()
+comment1.text=\n\ Displays\ Frame\ to\ prompt\ user\ for\ text\ file\ (.txt)\ to\ create\ word\ cloud.\ Creates\ and\ displays\ word\ cloud\ from\ file\ text.\n\ Throws\ exception\ for\ invalid\ file\ type\ or\ missing\ file.\n
+numComments=2

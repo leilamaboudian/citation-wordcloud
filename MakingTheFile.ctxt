@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MakingTheFile
+comment0.text=\n\ Make\ a\ word\ file\ with\ the\ given\ citation.\n\n\ @author\ L.\ Maboudian\n\ @version\ 1\n
+comment1.params=mainFrame\ citation\ fileName
+comment1.target=void\ makeCiteFile(FrameBase,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Creates\ word\ file\ with\ given\ citation\n\ \n\ @param\ mainFrame\ JFrame\ to\ which\ to\ add\ confirmation\ text.\n\ @param\ citation\ text\ of\ citation\n\ @param\ fileName\ name\ of\ file\n
+numComments=2
